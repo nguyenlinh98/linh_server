@@ -1,0 +1,50 @@
+.navbar {
+        margin-bottom: 0;
+        border-radius: 0;
+      }
+
+  /* Add a gray background color and some padding to the footer */
+  footer {
+    background-color: #f2f2f2;
+    padding: 25px;
+  }
+
+.carousel-inner img {
+    width: 100%; /* Set width to 100% */
+    margin: auto;
+    min-height:200px;
+}
+
+/* Hide the carousel text when the screen is less than 600 pixels wide */
+@media (max-width: 600px) {
+  .carousel-caption {
+    display: none;
+  }
+}
+.contend{
+  margin: 50px 20px 50px;
+}
+.box img
+{
+  width: 100%;
+  height: 200px;
+}
+.doctor ul
+{
+  list-style: none;
+}
+@media () {
+  
+}
+/*FORM detail doctor*/
+.header_img{
+  font-size: 20px;
+  color: aliceblue;
+}
+   /*benh an*/
+.login_patient{
+  border:1px ;
+}
+.contend_login{
+  margin-bottom: 10px;
+}
